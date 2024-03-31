@@ -17,6 +17,4 @@
   <img src="https://contrib.rocks/image?repo=Actually123/Deep_Learning_Homeworks" />
 </a>
 
-Made with [contrib.rocks](https://contrib.rocks).
-
 ### 备注：如果你对练习文件有疑问，欢迎通过`Issues`或主页邮箱与我联系！🥳
